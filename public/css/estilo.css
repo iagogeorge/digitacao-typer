@@ -1,6 +1,7 @@
 .campo-digitacao {
     font-size: 20px;
     height: 130px;
+    border: 3px solid black;
 }
 
 .frase {
@@ -18,6 +19,10 @@
 
 .borda-verde {
     border: 3px solid green;
+}
+
+.borda-dark {
+    border: 3px solid black;
 }
 
 .borda-vermelha {
